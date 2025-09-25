@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\Valentin\.nuget\packages\;C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages</NuGetPackageFolders>
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.14.1</NuGetToolVersion>
+  </PropertyGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <SourceRoot Include="C:\Users\Valentin\.nuget\packages\" />
+    <SourceRoot Include="C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\" />
+  </ItemGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgSystemEx Condition=" '$(PkgSystemEx)' == '' ">C:\Users\Valentin\.nuget\packages\systemex\21.2.21.10</PkgSystemEx>
+    <PkgSystem_Data_SqlClient Condition=" '$(PkgSystem_Data_SqlClient)' == '' ">C:\Users\Valentin\.nuget\packages\system.data.sqlclient\4.8.5</PkgSystem_Data_SqlClient>
+    <PkgSelenium_WebDriver Condition=" '$(PkgSelenium_WebDriver)' == '' ">C:\Users\Valentin\.nuget\packages\selenium.webdriver\4.11.0</PkgSelenium_WebDriver>
+    <PkgMicrosoft_Web_WebView2 Condition=" '$(PkgMicrosoft_Web_WebView2)' == '' ">C:\Users\Valentin\.nuget\packages\microsoft.web.webview2\1.0.1823.32</PkgMicrosoft_Web_WebView2>
+    <PkgMicrosoft_SqlServer_SqlManagementObjects Condition=" '$(PkgMicrosoft_SqlServer_SqlManagementObjects)' == '' ">C:\Users\Valentin\.nuget\packages\microsoft.sqlserver.sqlmanagementobjects\170.18.0</PkgMicrosoft_SqlServer_SqlManagementObjects>
+    <PkgiTextSharp Condition=" '$(PkgiTextSharp)' == '' ">C:\Users\Valentin\.nuget\packages\itextsharp\5.5.13.3</PkgiTextSharp>
+    <Pkgini-parser Condition=" '$(Pkgini-parser)' == '' ">C:\Users\Valentin\.nuget\packages\ini-parser\2.5.2</Pkgini-parser>
+    <PkgHtmlAgilityPack Condition=" '$(PkgHtmlAgilityPack)' == '' ">C:\Users\Valentin\.nuget\packages\htmlagilitypack\1.11.47</PkgHtmlAgilityPack>
+    <PkgEPPlus Condition=" '$(PkgEPPlus)' == '' ">C:\Users\Valentin\.nuget\packages\epplus\6.2.7</PkgEPPlus>
+    <PkgAutoClosingMessageBox Condition=" '$(PkgAutoClosingMessageBox)' == '' ">C:\Users\Valentin\.nuget\packages\autoclosingmessagebox\1.0.0.5</PkgAutoClosingMessageBox>
+  </PropertyGroup>
+</Project>

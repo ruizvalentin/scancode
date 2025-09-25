@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Valentin\\Documents\\Projet\\ScanCode\\Code pour vourles\\ScanCode\\ScanCode\\ScanCode.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Valentin\\Documents\\Projet\\ScanCode\\Code pour vourles\\ScanCode\\ScanCode\\ScanCode.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Valentin\\Documents\\Projet\\ScanCode\\Code pour vourles\\ScanCode\\ScanCode\\ScanCode.csproj",
+        "projectName": "ScanCode",
+        "projectPath": "C:\\Users\\Valentin\\Documents\\Projet\\ScanCode\\Code pour vourles\\ScanCode\\ScanCode\\ScanCode.csproj",
+        "packagesPath": "C:\\Users\\Valentin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Valentin\\Documents\\Projet\\ScanCode\\Code pour vourles\\ScanCode\\ScanCode\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Valentin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "AutoClosingMessageBox": {
+              "target": "Package",
+              "version": "[1.0.0.5, )",
+              "generatePathProperty": true
+            },
+            "EPPlus": {
+              "target": "Package",
+              "version": "[6.2.7, )",
+              "generatePathProperty": true
+            },
+            "HtmlAgilityPack": {
+              "target": "Package",
+              "version": "[1.11.47, )",
+              "generatePathProperty": true
+            },
+            "Microsoft.SqlServer.SqlManagementObjects": {
+              "target": "Package",
+              "version": "[170.18.0, )",
+              "generatePathProperty": true
+            },
+            "Microsoft.Web.WebView2": {
+              "target": "Package",
+              "version": "[1.0.1823.32, )",
+              "generatePathProperty": true
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.11.0, )",
+              "generatePathProperty": true
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )",
+              "generatePathProperty": true
+            },
+            "SystemEx": {
+              "target": "Package",
+              "version": "[21.2.21.10, )",
+              "generatePathProperty": true
+            },
+            "iTextSharp": {
+              "target": "Package",
+              "version": "[5.5.13.3, )",
+              "generatePathProperty": true
+            },
+            "ini-parser": {
+              "target": "Package",
+              "version": "[2.5.2, )",
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
